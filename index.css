@@ -4,7 +4,8 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #cabecera{
-    color: gray;
+    color: rgb(19, 91, 109);
     background-color: beige;
     font-weight: 200;
+    border-color: black, solid;
 }
