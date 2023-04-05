@@ -3,3 +3,8 @@
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#cabecera{
+    color: gray;
+    background-color: beige;
+    font-weight: 200;
+}
