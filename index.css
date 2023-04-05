@@ -2,3 +2,8 @@
     color: rgb(0, 153, 255);
     text-align: center;
 }
+#cabecera{
+    color: gray;
+    background-color: beige;
+    font-weight: 200;
+}
