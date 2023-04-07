@@ -1,3 +1,3 @@
 Hola soy Jhon Estiven y soy desarrollador full-stack.
 Hola soy Maicol y soy desarrollador back-end.
-El anterior commit lo hice yo el desarrollador Maicol, credenciales cambiadas.
+El anterior commit lo hice yo el desarrollador Maicol, credenciales cambiadas v2.
