@@ -2,3 +2,5 @@ Hola soy Jhon Estiven y soy desarrollador full-stack.
 Hola soy Maicol y soy desarrollador back-end.
 El anterior commit lo hice yo el desarrollador Maicol, credenciales cambiadas v2.
 Uso del rebase!!!
+achievements v2
+nuevos cambios deben ser revisados con detenimiento.
